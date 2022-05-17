@@ -1,1 +1,0 @@
-$FolderPath = "C:\Users\baxterb\OneDrive - Barratt Developments Plc\Documents\Powershell\"
